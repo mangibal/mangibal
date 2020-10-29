@@ -1,4 +1,8 @@
-## Hello there, I'm Iqbal Fauzi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center"> Hello there, I'm Iqbal Fauzi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
+
+<p align="center">
+    Currently working at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Bobobox</a></b> as Android Engineer
+</p>
 
 <!--
 **mangibal/mangibal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
