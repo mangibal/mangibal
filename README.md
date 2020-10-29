@@ -1,7 +1,9 @@
 <h1 align="center"> Hello there, I'm Iqbal Fauzi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h1>
 
 <p align="center">
-    Currently working at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Bobobox</a></b> as Android Engineer
+    Currently working at <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://bobobox.co.id/">Bobobox</a></b> as Android Engineer
+    <br>
+    <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/ifauzii/">LinkedIn</a></b> | <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.instagram.com/iqbal.today/">Instagram</a></b>
 </p>
 
 <!--
